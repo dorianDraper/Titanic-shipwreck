@@ -2,3 +2,4 @@ __pycache__
 .env
 .learn
 .src/train_test_split.png
+/data
